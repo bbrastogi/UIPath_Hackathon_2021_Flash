@@ -25,4 +25,4 @@ This solution automates the process of starting performance test execution in JM
     
     "UiPath.WebAPI.Activities": "[1.7.0]"
     
-3. Run the framework from the Main.xaml workflow inside UIPath Studio
+3. Run the framework from Main.xaml workflow inside UIPath Studio
